@@ -1,0 +1,6 @@
+Para saber mais: HTML x CSS x JavaScript
+
+Para que fique mais claro o porquê de se utilizar arquivos separados para HTML e JavaScript, leia o artigo da instrutora Rafaella Ballerini, que explica a diferença entre essas linguagens.
+
+Artigo: HTML X CSS X JavaScript. Quais as diferenças? (https://www.alura.com.br/artigos/html-css-e-js-definicoes?_gl=1*1w9xk5n*_ga*MTQ2NDkzNTA0LjE2OTA2Njg4Njc.*_ga_1EPWSW3PCS*MTcwNjgzMzUwNS43MC4xLjE3MDY4Mzc3MjQuMC4wLjA.*_fplc*aDMza2s3ZHpmN0F1a1BLQjdtQjhPaG1lRkxJYXVKNVc3VFQ1QzZTbDdpaUJrekRXJTJCdEdITE1kUFJsM3hXd256OURkWk0wbXlKdUt4OWc2MCUyQkRUU3pGVlZ6M0V3MHpLNVBTJTJGNXAlMkJJVnFPVUJaJTJCOFEyNWJHaFJneU5VbTZKUSUzRCUzRA..)
+
